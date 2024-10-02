@@ -1,1 +1,1 @@
-FROM soto795/declutternode:v1
+FROM soto795/declutternode:v2
